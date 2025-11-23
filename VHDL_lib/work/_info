@@ -1,0 +1,594 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/Simulacao_1_Multiplexador_Decodificador
+Eand2
+Z0 w1756299662
+Z1 dC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib
+Z2 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/and2.vhd
+Z3 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/and2.vhd
+l0
+L1
+V[e30hdd>zdAHOg_XF:G>K3
+!s100 HOzYRYN>:gf70Cb;Xa@aJ0
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1763748661
+!i10b 1
+Z6 !s108 1763748661.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/and2.vhd|
+Z8 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/and2.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Afluxodedados
+DEx4 work 4 and2 0 22 [e30hdd>zdAHOg_XF:G>K3
+l5
+L4
+VC]GU7M?zhezEo?3?d;cP03
+!s100 TQzSzKZN3_D1k_Ba``3oN0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Edecodificador_4x16
+Z11 w1756250614
+Z12 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z13 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R1
+8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity.vhd
+FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity.vhd
+l0
+L4
+Vm0d1La6[XUiIle6S[?V1j1
+!s100 _FIO5FKQWc6EC2?F6HElE2
+R4
+32
+Z14 !s110 1763748662
+!i10b 1
+Z15 !s108 1763748662.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity.vhd|
+!s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity.vhd|
+!i113 1
+R9
+R10
+Abehavioral
+R12
+R13
+DEx4 work 18 decodificador_4x16 0 22 m0d1La6[XUiIle6S[?V1j1
+8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/decodificador_4x16.vhd
+FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/decodificador_4x16.vhd
+l2
+L1
+Vg6og^:K[@jg`_V<7kcIAV1
+!s100 _Ag6o;@U10bfneHU2nkj31
+R4
+32
+!s110 1763749102
+!i10b 1
+!s108 1763749102.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/decodificador_4x16.vhd|
+!s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/decodificador_4x16.vhd|
+!i113 1
+R9
+R10
+Edeslocador
+Z16 w1763751554
+Z17 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R12
+R13
+R1
+Z18 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/deslocador.vhd
+Z19 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/deslocador.vhd
+l0
+L5
+VSmPGmoBhE7jLVa9:aREjL2
+!s100 Sb<cm1F8eDO@zLV@2@5S[3
+R4
+32
+Z20 !s110 1763939121
+!i10b 1
+Z21 !s108 1763939121.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/deslocador.vhd|
+Z23 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/deslocador.vhd|
+!i113 1
+R9
+R10
+Abehavioral
+R17
+R12
+R13
+DEx4 work 10 deslocador 0 22 SmPGmoBhE7jLVa9:aREjL2
+l14
+L13
+VXVkLnG<fW;iEcVn2?`:3=3
+!s100 VTcIWb2j6?iT]EE`iHlP03
+R4
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R9
+R10
+Einv
+Z24 w1756299859
+R1
+Z25 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/inv.vhd
+Z26 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/inv.vhd
+l0
+L1
+VOHB_`B9Hg74VlQc9`WK`m1
+!s100 Mi8l0FL9Wdb8C:gjm6KNC2
+R4
+32
+R14
+!i10b 1
+R15
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/inv.vhd|
+Z28 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/inv.vhd|
+!i113 1
+R9
+R10
+Afluxodedados
+DEx4 work 3 inv 0 22 OHB_`B9Hg74VlQc9`WK`m1
+l5
+L4
+V^R1jgiE_G_fi]8CTl6fnC2
+!s100 bBT6U2:XM?Wloj45RAohA1
+R4
+32
+R14
+!i10b 1
+R15
+R27
+R28
+!i113 1
+R9
+R10
+Elms
+Z29 w1763753815
+R12
+R13
+R1
+Z30 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms_novo.vhd
+Z31 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms_novo.vhd
+l0
+L4
+VPjgDb0k_lg@Gh60Z:hQ;>0
+!s100 4I6iK8oY==21_=bEcTg;B3
+R4
+32
+Z32 !s110 1763753823
+!i10b 1
+Z33 !s108 1763753823.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms_novo.vhd|
+Z35 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms_novo.vhd|
+!i113 1
+R9
+R10
+Abehavioral
+R12
+R13
+DEx4 work 3 lms 0 22 PjgDb0k_lg@Gh60Z:hQ;>0
+l21
+L12
+VPX:f^1j9=098YFm3VN=lk1
+!s100 b84@a9498IZlBf@]>C:g20
+R4
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R9
+R10
+Elmstestbench
+Z36 w1763940438
+R12
+R13
+R1
+Z37 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/lmstestebench.vhd
+Z38 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/lmstestebench.vhd
+l0
+L4
+VK@zfD^6P[G:Y8MbCO^QmP1
+!s100 ^`JmaaicMkM[337D=kNbo2
+R4
+32
+Z39 !s110 1763940462
+!i10b 1
+Z40 !s108 1763940462.000000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/lmstestebench.vhd|
+Z42 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/lmstestebench.vhd|
+!i113 1
+R9
+R10
+Abehavioral
+R12
+R13
+Z43 DEx4 work 12 lmstestbench 0 22 K@zfD^6P[G:Y8MbCO^QmP1
+l23
+L7
+VTNDGb:UFhOiAi`Ef@MFUl0
+!s100 V_k9fz8WmR=bQh8@MF=Y`0
+R4
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R9
+R10
+Elogica_microsequenciamento
+Z44 w1763750232
+R17
+R12
+R13
+R1
+Z45 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms.vhd
+Z46 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms.vhd
+l0
+L5
+V4@eHFY6a6_b=2GIJ^zKIl0
+!s100 jN;IH5URO0>>lE[YJ1@MT1
+R4
+32
+Z47 !s110 1763750537
+!i10b 1
+Z48 !s108 1763750537.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms.vhd|
+Z50 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms.vhd|
+!i113 1
+R9
+R10
+Abehavioral
+R17
+R12
+R13
+DEx4 work 26 logica_microsequenciamento 0 22 4@eHFY6a6_b=2GIJ^zKIl0
+l14
+L13
+VWYFQ_OdEI2ijb7N?CZHbM0
+!s100 Z^6AfT2OGZljPFGB`XkoU1
+R4
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R9
+R10
+Emux2x1
+R11
+R1
+8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity_mux.vhd
+FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity_mux.vhd
+l0
+L1
+VJYJAz`UKUE_R>JhVC:n<G3
+!s100 T4_nTZ=J[B=RR]:g:JChU0
+R4
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity_mux.vhd|
+!s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity_mux.vhd|
+!i113 1
+R9
+R10
+Afluxo_de_dados
+w1756297057
+Z51 DEx4 work 6 mux2x1 0 22 JYJAz`UKUE_R>JhVC:n<G3
+8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_fluxo_de_dados.vhd
+FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_fluxo_de_dados.vhd
+l2
+L1
+VfEAB^4KJ>O=`YQ>zD_;O`0
+!s100 G;AL]i=9Q62`bRDYTZgg91
+R4
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_fluxo_de_dados.vhd|
+!s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_fluxo_de_dados.vhd|
+!i113 1
+R9
+R10
+Aestrutural
+w1756299103
+R51
+8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_estrutural.vhd
+FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_estrutural.vhd
+l12
+L1
+VCAL<YRh7HUBodoIMZVOea3
+!s100 ej=U@K6092K:fz=n32@XM1
+R4
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_estrutural.vhd|
+!s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_estrutural.vhd|
+!i113 1
+R9
+R10
+Aalgoritmica
+R51
+8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1.vhd
+FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1.vhd
+l3
+L1
+V7<@EZb:CbQO78m^QaOV3Q2
+!s100 oS:0QYafTFJ_2XJNUKBFa0
+R4
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1.vhd|
+!s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1.vhd|
+!i113 1
+R9
+R10
+Eor2
+Z52 w1756299974
+R1
+Z53 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/or2.vhd
+Z54 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/or2.vhd
+l0
+L1
+VaS7JBAT^@j6B?DSLNk2zW0
+!s100 9a_?R?TbfiIbd;W>N=iZS2
+R4
+32
+R14
+!i10b 1
+R15
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/or2.vhd|
+Z56 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/or2.vhd|
+!i113 1
+R9
+R10
+Afluxodedados
+DEx4 work 3 or2 0 22 aS7JBAT^@j6B?DSLNk2zW0
+l5
+L4
+VZ?[08cP?3gXTkCfZTUmQz1
+!s100 8m_Rz]B[I^FC2LUBdc1l32
+R4
+32
+R14
+!i10b 1
+R15
+R55
+R56
+!i113 1
+R9
+R10
+Etestbench_decodificador_4x16
+R11
+R17
+R12
+R13
+R1
+Z57 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbench_decodificador_4x16.vhd
+Z58 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbench_decodificador_4x16.vhd
+l0
+L5
+VRcUa>K2HlYEL455hm<[:]1
+!s100 ;;C^KKDbY^F8INm4MPlH73
+R4
+32
+R14
+!i10b 1
+R15
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbench_decodificador_4x16.vhd|
+Z60 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbench_decodificador_4x16.vhd|
+!i113 1
+R9
+R10
+Abehavioral
+R17
+R12
+R13
+DEx4 work 28 testbench_decodificador_4x16 0 22 RcUa>K2HlYEL455hm<[:]1
+l20
+L8
+VQF_kjf622l<NZY0Z?5aEm2
+!s100 Ga]lOX;XnY69zN^_1GUJ:0
+R4
+32
+R14
+!i10b 1
+R15
+R59
+R60
+!i113 1
+R9
+R10
+Etestbench_deslocador
+Z61 w1763939152
+R17
+R12
+R13
+R1
+Z62 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebenchdeslocador.vhd
+Z63 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebenchdeslocador.vhd
+l0
+L5
+VbMO@n2<Shf?0`1PiFl[@?1
+!s100 [F0_Jl=`4YN[4g2^agiI:0
+R4
+32
+Z64 !s110 1763939155
+!i10b 1
+Z65 !s108 1763939155.000000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebenchdeslocador.vhd|
+Z67 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebenchdeslocador.vhd|
+!i113 1
+R9
+R10
+Abehavioral
+R17
+R12
+R13
+DEx4 work 20 testbench_deslocador 0 22 bMO@n2<Shf?0`1PiFl[@?1
+l21
+L8
+V`2Eb?DQQM?_m`PR]cBCfU1
+!s100 V]V<o11WOJfAWemGC<k8j0
+R4
+32
+R64
+!i10b 1
+R65
+R66
+R67
+!i113 1
+R9
+R10
+Etestbench_ula_16bits
+Z68 w1763753892
+R17
+R12
+R13
+R1
+Z69 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebench_ula.vhd
+Z70 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebench_ula.vhd
+l0
+L5
+Vgg<2bheNGI;L[F6FKe`1U3
+!s100 B@_D=Y[HMao0XY<LZTT`_2
+R4
+32
+Z71 !s110 1763937609
+!i10b 1
+Z72 !s108 1763937609.000000
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebench_ula.vhd|
+Z74 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebench_ula.vhd|
+!i113 1
+R9
+R10
+Abehavioral
+R17
+R12
+R13
+DEx4 work 20 testbench_ula_16bits 0 22 gg<2bheNGI;L[F6FKe`1U3
+l24
+L8
+Vzb]B?QC5?@cH[Uc^T=[D53
+!s100 0Rn=9EWHzi_=^mfoZeHh22
+R4
+32
+R71
+!i10b 1
+R72
+R73
+R74
+!i113 1
+R9
+R10
+Etestbenchmux2x1
+R11
+R1
+Z75 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbenchmux2x1.vhd
+Z76 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbenchmux2x1.vhd
+l0
+L1
+Va73:zQ4h;_zJ^1NHo?iZM2
+!s100 0H:W;aUJ249M1Abh9We8`2
+R4
+32
+R14
+!i10b 1
+R15
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbenchmux2x1.vhd|
+Z78 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbenchmux2x1.vhd|
+!i113 1
+R9
+R10
+Ateste
+DEx4 work 15 testbenchmux2x1 0 22 a73:zQ4h;_zJ^1NHo?iZM2
+l11
+L4
+V2P62H6@G;]7i`Rk2`RY2Q0
+!s100 4GY6A9>V6UIkMAJf>j4W92
+R4
+32
+R14
+!i10b 1
+R15
+R77
+R78
+!i113 1
+R9
+R10
+Eula_16bits
+R44
+Z79 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z80 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R17
+R12
+R13
+R1
+Z81 8C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/ula.vhd
+Z82 FC:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/ula.vhd
+l0
+L6
+ViR>W35MUjoU_MZ5eIW@4]0
+!s100 []gD:aEi[dQIO9JdMJi2P1
+R4
+32
+Z83 !s110 1763750649
+!i10b 1
+Z84 !s108 1763750649.000000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/ula.vhd|
+Z86 !s107 C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/ula.vhd|
+!i113 1
+R9
+R10
+Aalgoritmica
+R79
+R80
+R17
+R12
+R13
+DEx4 work 10 ula_16bits 0 22 iR>W35MUjoU_MZ5eIW@4]0
+l17
+L15
+VSD1W4AJ`ihW9EkXO3IQz;0
+!s100 FYTlIj3=9zji;=[KnK2Of0
+R4
+32
+R83
+!i10b 1
+R84
+R85
+R86
+!i113 1
+R9
+R10

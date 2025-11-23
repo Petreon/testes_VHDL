@@ -1,0 +1,119 @@
+{C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity_mux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity_mux.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity mux2x1
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/deslocador.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/deslocador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity deslocador
+-- Compiling architecture behavioral of deslocador
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_estrutural.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_estrutural.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture estrutural of mux2x1
+-- Loading entity mux2x1
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbench_decodificador_4x16.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbench_decodificador_4x16.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity testbench_decodificador_4x16
+-- Compiling architecture behavioral of testbench_decodificador_4x16
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebenchdeslocador.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebenchdeslocador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity testbench_deslocador
+-- Compiling architecture behavioral of testbench_deslocador
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/or2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/or2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity or2
+-- Compiling architecture fluxodedados of or2
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/entity.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decodificador_4x16
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbenchmux2x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/testbenchmux2x1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity testbenchmux2x1
+-- Compiling architecture teste of testbenchmux2x1
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/ula.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/ula.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ULA_16bits
+-- Compiling architecture algoritmica of ULA_16bits
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/decodificador_4x16.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/decodificador_4x16.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture behavioral of decodificador_4x16
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity decodificador_4x16
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/lms.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity logica_microsequenciamento
+-- Compiling architecture behavioral of logica_microsequenciamento
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebench_ula.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/LAB2_ARQCOMP/testebench_ula.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity testbench_ULA_16bits
+-- Compiling architecture behavioral of testbench_ULA_16bits
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_fluxo_de_dados.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1_fluxo_de_dados.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture fluxo_de_dados of mux2x1
+-- Loading entity mux2x1
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/mux2x1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture algoritmica of mux2x1
+-- Loading entity mux2x1
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/inv.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/inv.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity inv
+-- Compiling architecture fluxodedados of inv
+
+} {} {}} {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/and2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Paulo Vitor/Desktop/ArqComp_Giulia/VHDL_lib/LAB1_ARQCOMP/and2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity and2
+-- Compiling architecture fluxodedados of and2
+
+} {} {}}

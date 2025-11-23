@@ -1,0 +1,110 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity lmstestbench is
+end entity lmstestbench;
+
+architecture behavioral of lmstestbench is
+
+    component LMS is
+        port (
+            N, Z  : in  std_logic;
+            COND  : in  std_logic_vector(1 downto 0);
+            S     : out std_logic
+        );
+    end component;
+
+
+    signal s_N    : std_logic := '0';
+    signal s_Z    : std_logic := '0';
+    signal s_COND : std_logic_vector(1 downto 0) := "00";
+    signal s_S    : std_logic;
+
+begin
+
+t)
+    TEST_LMS : LMS
+        port map (
+            N    => s_N,
+            Z    => s_Z,
+            COND => s_COND,
+            S    => s_S
+        );
+
+    stim_proc : process
+    begin
+        report "Iniciando testes do LMS" severity note;
+
+
+        -- COND = "00"  ->  S = 1
+        s_COND <= "00";
+
+        s_N <= '0'; s_Z <= '0';
+        wait for 100 ps;
+
+        s_N <= '0'; s_Z <= '1';
+        wait for 100 ps;
+
+        s_N <= '1'; s_Z <= '0';
+        wait for 100 ps;
+
+        s_N <= '1'; s_Z <= '1';
+        wait for 100 ps;
+
+
+        -- COND = "01"  
+        s_COND <= "01";
+
+        s_N <= '0'; s_Z <= '0';
+        wait for 100 ps;
+
+        s_N <= '0'; s_Z <= '1';
+        wait for 100 ps;
+
+        s_N <= '1'; s_Z <= '0';  
+        wait for 100 ps;
+
+        s_N <= '1'; s_Z <= '1';  
+        wait for 100 ps;
+
+
+        -- COND = "10" 
+
+        s_COND <= "10";
+
+        s_N <= '0'; s_Z <= '0';
+        wait for 100 ps;
+
+        s_N <= '0'; s_Z <= '1';  -- deve saltar
+        wait for 100 ps;
+
+        s_N <= '1'; s_Z <= '0';
+        wait for 100 ps;
+
+        s_N <= '1'; s_Z <= '1';  -- deve saltar
+        wait for 100 ps;
+
+
+        -- COND = "11"
+
+        s_COND <= "11";
+
+        s_N <= '0'; s_Z <= '0';
+        wait for 100 ps;
+
+        s_N <= '0'; s_Z <= '1';
+        wait for 100 ps;
+
+        s_N <= '1'; s_Z <= '0';
+        wait for 100 ps;
+
+        s_N <= '1'; s_Z <= '1';
+        wait for 100 ps;
+
+        report "Fim dos testes do LMS";
+
+        wait;
+    end process;
+
+end architecture behavioral;
+
