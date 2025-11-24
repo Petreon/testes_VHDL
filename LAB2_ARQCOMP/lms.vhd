@@ -10,20 +10,20 @@ entity LMS is
 end entity LMS;
 
 architecture behavioral of LMS is
--- O objetivo do LSM é pegar o valor que vem da ALU N e Z 
+-- O objetivo do LSM ï¿½ pegar o valor que vem da ALU N e Z 
 -- junto com o COND que vem do microprograma e dar uma saida 0 ou 1
 -- para o mux de microinstrucao saber se tem que seguir o proximo enderco
 -- ou pegar o endereco que esta na microinstrucao
 -- para o processador talvez seja necessario colocar um sinal de clock
 -- para poder alinhar com o GSC
 -- usando a logica de que S = 0  entao mux = 0 (ADDR)
--- se S = 1 (não salta )e o mux seleciona o INC de endereco
+-- se S = 1 (nï¿½o salta )e o mux seleciona o INC de endereco 1
 begin
 
 	process(N,Z,COND)
 	begin
 	case cond is
-            when "00" =>  -- 0 = não salta
+            when "00" =>  -- 0 = nï¿½o salta
                 S <= '1';
 
             when "01" =>  -- 1 = salta para ADDR, se N = 1
